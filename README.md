@@ -16,7 +16,7 @@ Segmentation samples<br>
 In order to improve segmentation accuracy, we will use an online dataset augmentation strategy based on Python script <a href="./src/ImageMaskAugmentor.py">
 ImageMaskAugmentor.py</a> to train a Bladder-Cancer Segmentation Model.<br>
 <br>
-As a first trial, we use the simple UNet Model 
+As a first trial, we use the Transormer UNet Model 
 <a href="./src/TensorflowUNet.py">TensorflowTransUNet</a> for this Bladder-Cancer Segmentation.<br>
 As shown in <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>.
 you may try other Tensorflow UNet Models:<br>
@@ -407,3 +407,8 @@ Volume 13 - 2023 | https://doi.org/10.3389/fonc.2023.1096136<br>
 https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1096136/full
 </pre>
 
+<b>4. Tensorflow-Image-Segmentation-Augmented-Bladder-Cancer</b><br>
+Toshiyuki Arai @antillia.com<br>
+<pre>
+https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-Bladder-Cancer
+</pre>
