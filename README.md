@@ -89,7 +89,7 @@ be effective to improve segmentation accuracy.
 3 TensorflowTransUNet
 </a>
 </h3>
-This <a href="./src/TensorflowUTransNet.py">TensorflowTransUNet</a> model is slightly flexibly customizable by a configuration file.<br>
+This <a href="./src/TensorflowTransUNet.py">TensorflowTransUNet</a> model is slightly flexibly customizable by a configuration file.<br>
 For example, <b>TensorflowTransUNet/Bladder-Cancer</b> model can be customizable
 by using <a href="./projects/TensorflowTransUNet/Bladder-Cancer/train_eval_infer_augmentor.config">train_eval_infer_augmentor.config</a>
 <pre>
