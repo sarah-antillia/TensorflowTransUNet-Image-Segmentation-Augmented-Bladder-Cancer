@@ -21,7 +21,6 @@ As a first trial, we use the Transormer UNet Model
 As shown in <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>.
 you may try other Tensorflow UNet Models:<br>
 
-<li><a href="./src/TensorflowTransUNet.py">TensorflowTransUNet.py</a></li>
 <li><a href="./src/TensorflowMultiResUNet.py">TensorflowMultiResUNet.py</a></li>
 <li><a href="./src/TensorflowAttentionUNet.py">TensorflowAttentionUNet.py</a></li>
 <li><a href="./src/TensorflowEfficientUNet.py">TensorflowEfficientUNet.py</a></li>
